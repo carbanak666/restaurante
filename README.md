@@ -1,3 +1,2 @@
 # restaurante
-modo de usar ./restaurante (ea opçao)
-mais info dentro do codigo ;)
+modo de usar ./restaurante (ea opção)
