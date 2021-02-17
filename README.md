@@ -1,2 +1,3 @@
 # restaurante
-um codigo feito em c basico
+modo de usar ./restaurante (ea opçao)
+mais info dentro do codigo ;)
